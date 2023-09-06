@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on [SpeedLink - Custom Shortcut Chrome extension](https://github.com/iTsygancov/SpeedLink)
 
-- 🌱 I’m currently learning **Vite build tool**
+- 🌱 I’m currently learning [Vite build tool](https://vitejs.dev/)
 
-- 📝 I regularly write articles on [https://itsygankov.com](https://itsygankov.com)
+- 📫 How to reach me - [info@itsygankov.com](mailto:info@itsygankov.com)
+  
+- 💬 You can also visit my website - [https://itsygankov.com](https://itsygankov.com)
 
-- 💬 Ask me about **JavaScript/Typescript, React etc.**
+- 📄 Know about my experiences - [https://www.linkedin.com/in/igortsygankov/](https://www.linkedin.com/in/igortsygankov/)
 
-- 📫 How to reach me **info@itsygankov.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/igortsygankov/](https://www.linkedin.com/in/igortsygankov/)
-
-- ⚡ Fun fact **I prefer Tabs over Spaces :)**
+- ⚡ Fun fact - **I prefer Tabs over Spaces :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
